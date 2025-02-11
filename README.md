@@ -1,15 +1,15 @@
 ## Hi there I'm Haripriya👋
 
-<!--
-**Haripriya132/Haripriya132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+🌟 About Me
+   Welcome to my profile! I'm a DevOps Engineer passionate about bridging the gap between development and operations to deliver secure, scalable, and efficient infrastructure solutions. 
 
-- 🔭 I’m currently working as Student
-- 🌱 I’m currently learning ...Devops Engineering
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...Devops Engineering
+
+- 🔭 I’m currently working as Student Pursuing knowledge and hands-on skills in DevOps Engineering
+- 🌱 I’m currently learning : Cloud platforms (AWS, Azure), CI/CD tools, containerization with Docker, and Kubernetes.
+- 👯 I’m looking to collaborate on ...Open-source projects in DevOps.
+- 🤔 I’m looking for help with ...Gaining deeper insights into Kubernetes and Cloud Security.
+- 💬 Ask me about ...DevOps fundamentals and tools
 - 📫 How to reach me: ...priya1302hks@gmail.com
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...I believe automation makes life easier—whether it's for work or daily life! 
+  
