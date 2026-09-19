@@ -21,4 +21,4 @@ I'm a Business Systems Analyst Intern working on a manufacturing/subcontracting 
    * ERP/business systems logic
    * SQL and Python basics for data analysis
 * 📫 Reach me at: [priya1302hks@gmail.com](mailto:priya1302hks@gmail.com)
-* ⚡ Fun Fact: I handle client communication for my internship in a second language I'm still sharpening — turns out clear communication matters as much as clean code
+
